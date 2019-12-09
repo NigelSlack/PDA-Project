@@ -1,7 +1,8 @@
 **GMIT HDip Data Analytics 2019. Programming for Data Analysis project.**  
 
-This project analyses data obtained by the Phoenix Park weather station in Dublin, along with weather data more generally, and produces a simulated dataset for a variety of different climate variables. This dataset concentrates on the following, based on the data provided per day by the weather station : rainfall, atmospheric pressure, maximum and minimum temperature and date.  
-The data are examined to determine the types of statistical distribution that best represent them, and for relationships between different variables, and then the Python Numpy.random package is used to generate a realistic set of simulated readings.  
+This project analyses data obtained by the Phoenix Park weather station in Dublin, and produces a simulated dataset for a variety of different climate variables, namely : rainfall, atmospheric pressure, maximum and minimum temperature and date.  
+
+The data are examined to determine the types of statistical distribution that best represent them, and for relationships between different variables, and then the Python Numpy.random package and a Kernel Density Estimate function are used to generate a realistic set of simulated readings, covering one year following the current year.  
 
 Actual readings that are freely provided by the Irish government are made available at : https://data.gov.ie/dataset/dublin-phoenix-park-climate-data
 
